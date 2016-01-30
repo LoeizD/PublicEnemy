@@ -6,6 +6,10 @@
 	"Plugins": [
 		{
 			"Name": "Substance",
+			"Enabled": false
+		},
+		{
+			"Name": "FMODStudio",
 			"Enabled": true
 		}
 	]
