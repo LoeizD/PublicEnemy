@@ -12,5 +12,10 @@
 			"Name": "FMODStudio",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor"
 	]
 }
