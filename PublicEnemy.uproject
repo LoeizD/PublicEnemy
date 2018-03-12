@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.10",
+	"EngineAssociation": "4.12",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -11,6 +11,11 @@
 		{
 			"Name": "FMODStudio",
 			"Enabled": true
+		},
+		{
+			"Name": "KantanCharts",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/89bd18db011b4bd19606db2e31020f13"
 		}
 	],
 	"TargetPlatforms": [
